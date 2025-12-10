@@ -16,5 +16,5 @@ jobs:
     - name: compila
       run:  gcc Imposto-de-renda-teste.c -o Imposto-de-renda-teste
     - name: executa
-      run:  .\Imposto-de-renda-teste
+      run:  ./Imposto-de-renda-teste
     
